@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+</html>
+<head>
+<meta charset="UTF-8">
+<title>About</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="site-nav"></nav>
+        <a href="">Home</a>
+        <a href="">About Me</a>
+        <a href="">Nav Bar</a>
+        <nav></nav>
+    <nav id="nav-placeholder" class="navbar navbar-expand-sm navbar-dark site-nav" role="navigation"
+        aria-label="Main navigation">
+        <div class="container">
+            <!-- No brand/logo -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav"
+                aria-controls="nav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </nav>
+<!--This will be my projects page for my porfolio.-->
